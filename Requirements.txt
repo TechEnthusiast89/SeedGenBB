@@ -1,0 +1,7 @@
+The follow Python Librariers are Required to execute the Script.
+
+random
+string
+logging
+tkinter
+os
